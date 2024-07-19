@@ -6,6 +6,3 @@ exercício1_seunome.py
 '''
 
 print("Ola este e meu primeiro exercicio em Python!")
-a = 3+2
-print("\nA variavel a tem o seguinte valor: ", a)
-print(dir(str))
