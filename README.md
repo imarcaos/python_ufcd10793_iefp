@@ -51,7 +51,10 @@ Sempre que houver enunciados, estarão juntamente com o código.
         ```
 
 - Aula 5
-    - Classes
+    - Classes    
+    - Construtor
+    - Metodos
+    - Herança
 
 
 
