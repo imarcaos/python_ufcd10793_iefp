@@ -27,7 +27,7 @@ trimestre = int(input("Digite o número do trimestre [1 a 4]: "))
 if trimestre == 1:
     meses = [MESES.get(1), MESES.get(2), MESES.get(3)]
     mensagem = "Os meses do 1º trimestre são: %s, %s e %s." % (meses[0], meses[1], meses[2])
-    print(f"{mensagem:^80}")
+    print(f"{mensagem:^80}") # readapte o exemplo do slide Nº98 da aula Nº4
 
 elif trimestre == 2:
     meses = [MESES.get(4), MESES.get(5), MESES.get(6)]

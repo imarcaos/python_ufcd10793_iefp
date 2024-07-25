@@ -27,3 +27,31 @@ Sempre que houver enunciados, estarão juntamente com o código.
         - Iterações  
         - Classes
     - Tipos de dados Numéricos e String
+- Aula 3
+    - Tipagem Dinâmica
+    - Tipos de Dados - Lista e Tuplos
+    - Dicionários - mapeamento de objetos
+
+- Aula 4
+    - Funções `Def <name> (arg1, arg2, ..., argN):`
+        Código exemplo:
+        ``` python
+        def calculo_imc(peso, altura):
+            print(peso / altura ** 2)
+        calculo_imc(75, 1.68)
+        ```
+    - Parâmetros entram na função e os argumentos são feitas durante a chamada do função
+    - Casting
+    - Iteradores
+        - exemplo:
+        ```
+        a = [[1,2,3],[4,5,6],[7,8,9]]  
+        for i in a:  
+            print (i)
+        ```
+
+- Aula 5
+    - Classes
+
+
+
