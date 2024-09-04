@@ -56,5 +56,23 @@ Sempre que houver enunciados, estarão juntamente com o código.
     - Metodos
     - Herança
 
+- Aula 6
+    - Revisão Aula Anterior
+    - Aula agora: Herança e Decoradores
+        - variável = atributo
+    - Criando um Aliás = import from Carros CarrosEletricos as CE (CE=nome_do_aliás)
+    - Tratamento de dados de várias fontes: Texto, SCV, SQL, XLS
+    - range(1, 20, 3) 1=início, 20=fim, 3=passos
+    - Ficheiros e Iteradores
+    - While
+
+- Aula 7
+    - Revisão Aula Anterior as férias.
+    - Tratamento de Dados de várias Fontes: texto, csv, sql, xls
+    - Benchmark (medir desempenho de determinadas partes do nosso código)
+    - Profilers de memória (line_profiler)
+    - Widgets
+
+
 
 
