@@ -72,7 +72,14 @@ Sempre que houver enunciados, estarão juntamente com o código.
     - Benchmark (medir desempenho de determinadas partes do nosso código)
     - Profilers de memória (line_profiler)
     - Widgets
+    - Bibliotecas
+        - Introdução ao Pandas e NumPy
+        - Análise gráfica com Matplotlib
 
+- Aula 8
+    - Introdução ao Pandas e NumPy
+    - SQLite
+    - Testes Unitários
 
 
 
