@@ -80,6 +80,15 @@ Sempre que houver enunciados, estarão juntamente com o código.
     - Introdução ao Pandas e NumPy
     - SQLite
     - Testes Unitários
+    - Projeto Final em cima do que foi dado em aulas
+
+- Aula 9, 10
+    - Dedicado ao Projeto Final
+    - Criei um projeto "Lista de Tarefas", capaz de ler e escrever um ficheiro CSV
+    - O projeto carrega o módulo "Pandas"
+    - Foram construidas 2 classes, sendo que uma delas que faz falta ao programa, é somente a título de avalização.
+    - O programa é bem básico, possui um ID Dinâmico, Descrição e uma Data (texto simples)
+    - É possível adicionar e apagar a tarefa nesta primeira versão.
 
 
 
