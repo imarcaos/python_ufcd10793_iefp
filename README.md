@@ -90,5 +90,7 @@ Sempre que houver enunciados, estarão juntamente com o código.
     - O programa é bem básico, possui um ID Dinâmico, Descrição e uma Data (texto simples)
     - É possível adicionar e apagar a tarefa nesta primeira versão.
 
+- Aula Final e entrega do trabalho final - 2024-09-11
+
 
 
